@@ -1,0 +1,1 @@
+ALTER TABLE "posts" DROP CONSTRAINT "posts_url_unique";
